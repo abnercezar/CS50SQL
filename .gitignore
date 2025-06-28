@@ -1,0 +1,15 @@
+# Arquivos de banco de dados SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Ferramentas SQLite
+sqlite3.exe
+sqlite3_analyzer.exe
+sqldiff.exe
+sqlite-tools.zip
+
+# Arquivos de saída
+output.txt
+output.txt.sql
+*.output

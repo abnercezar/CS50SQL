@@ -24,4 +24,8 @@ AND staff_evaluations.exemplary > (
 
 
 ORDER BY staff_evaluations.exemplary DESC,
+<<<<<<< HEAD
         expenditures.per_pupil_expenditure DESC;
+=======
+         expenditures.per_pupil_expenditure DESC;
+>>>>>>> d4c505bd2661cb9e1e609b1680538a854008c65f

@@ -1,5 +1,5 @@
--- 9.sql, escreva uma consulta SQL para encontrar o(s) nome(s) do(s) distrito(s)
--- escolar(es) com o menor número de alunos. Apresente apenas o(s) nome(s).
+-- 9.sql, write a SQL query to find the name (or names) of the school district(s)
+-- with the single least number of pupils. Report only the name(s).
 
 SELECT districts.name
 FROM districts
